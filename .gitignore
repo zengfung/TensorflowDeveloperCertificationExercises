@@ -1,2 +1,6 @@
-
+# ipynb checkpoints
+**/.ipynb_checkpoints/
+# ds store
 .DS_Store
+# datasets
+**/mnist.npz
